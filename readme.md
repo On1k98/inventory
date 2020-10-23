@@ -18,6 +18,7 @@
 
 ----
 
+LICENSE: [MIT](./license.md)
 
 
 
