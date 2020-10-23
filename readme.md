@@ -4,7 +4,7 @@
 
 **Питчеры:**
 
-[Питчер 600мл: Barista Hustle cosmic black](./http://cocarcoffee.com/product/precision-milk-pitcher/)
+[Питчер 600мл: Barista Hustle cosmic black](http://cocarcoffee.com/product/precision-milk-pitcher/)
 
-[Питчер 400мл: Barista Hustle cosmic black](./http://cocarcoffee.com/product/precision_milk_pitcher_cosmic_black/)
+[Питчер 400мл: Barista Hustle cosmic black](http://cocarcoffee.com/product/precision_milk_pitcher_cosmic_black/)
 
